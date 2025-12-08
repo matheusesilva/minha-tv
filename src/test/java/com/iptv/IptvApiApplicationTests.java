@@ -1,0 +1,13 @@
+package com.iptv;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class IptvApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

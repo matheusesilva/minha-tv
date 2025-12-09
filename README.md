@@ -1,4 +1,4 @@
-# Minha IPTV
+# Editor de Listas M3U
 
 Aplicação full-stack para gerenciamento, edição e exportação de listas **M3U** e **XMLTV**, construída com **Java + Spring Boot** no back-end e **React + JavaScript + Bootstrap** no front-end. O sistema oferece uma plataforma intuitiva para organizar canais, guias de programação e logos, com recursos avançados como **fuzzy search** para otimizar buscas.
 
